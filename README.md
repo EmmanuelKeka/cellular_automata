@@ -1,3 +1,4 @@
+#cellular_automata
 this is a cellular automata Programme made using C.
 the goal of this programme is to simulate the spread of the Ebola virus using a 1000X1000 grid.
 each square in the grid will represent a cell that can be in 3 different states:
